@@ -10,8 +10,8 @@ namespace MusicPlayer.Services
     public class SpotifyService
     {
         private SpotifyClient _spotifyClient;
-        private readonly string _clientId = "c3c6da706dc04749a1ba88a272d0f02f"; // Replace with your actual Client ID
-        private readonly string _clientSecret = "847bb612ec03400cbe3ed1f06b8891e3"; // Replace with your actual Client Secret
+        private readonly string _clientId = "Your_Client_ID_xxxxx"; // Replace with your actual Client ID
+        private readonly string _clientSecret = "Your_Client_Secret_xxxxx"; // Replace with your actual Client Secret
         private readonly string _redirectUri = "http://localhost:5000/callback/"; // Make sure this matches the redirect URI in your Spotify dashboard
         private HttpListener _httpListener = new HttpListener();
         public event Action<bool> AuthenticationCompleted;

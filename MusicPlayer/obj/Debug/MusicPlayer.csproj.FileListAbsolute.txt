@@ -1,0 +1,81 @@
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPla.163160C2.Up2Date
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simm9\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Buffers.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Memory.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Buffers.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Memory.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\EmbedIO.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Swan.Lite.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.ValueTuple.dll
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\EmbedIO.pdb
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\EmbedIO.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\Swan.Lite.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\bin\Debug\System.ValueTuple.xml
+C:\Users\simm9\OneDrive\Skrivbord\music player\MusicPlayer\obj\Debug\MusicPla.163160C2.Up2Date
